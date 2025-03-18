@@ -6,3 +6,5 @@ pandas
 matplotlib
 seaborn
 setuptools<58.0.0
+scipy
+scikit-learn
